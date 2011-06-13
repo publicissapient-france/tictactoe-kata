@@ -1,4 +1,4 @@
-package fr.xebia.katas.oobank;
+package fr.xebia.katas.tictactoe;
 
 public class YouFirstClass {
 

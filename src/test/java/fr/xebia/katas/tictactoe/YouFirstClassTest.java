@@ -1,12 +1,14 @@
-package fr.xebia.katas.oobank;
+package fr.xebia.katas.tictactoe;
 
-import org.junit.Ignore;
 import org.junit.Test;
+
+import static org.fest.assertions.Assertions.assertThat;
 
 
 public class YouFirstClassTest {
-    
-    @Test @Ignore
-    public void should_test_something() throws Exception {
+
+    @Test
+    public void should_test_something() {
+        assertThat(true).isTrue();
     }
 }
